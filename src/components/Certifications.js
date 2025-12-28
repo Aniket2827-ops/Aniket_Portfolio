@@ -30,6 +30,9 @@ const Certifications = () => {
             Introduction to Programming using Python – Pride Educare
           </a>
         </li>
+        <li>
+            Selenium Webdriver with PYTHON from Scratch + Frameworks – Udemy (Ongoing)
+        </li>
       </ul>
     </section>
   );

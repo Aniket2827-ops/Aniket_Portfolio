@@ -10,7 +10,7 @@ const Skills = () => {
         <li>Frontend: HTML5, CSS3, React.js, Bootstrap</li>
         <li>Backend & Frameworks: Django, ReactJs</li>
         <li>Database: SQL</li>
-        <li>Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook, PyCharm, Dev C++</li>
+        <li>Tools & Platforms: LifeAsia, L400, Git, GitHub, VS Code, Jupyter Notebook, PyCharm, Excel</li>
         <li>Testing: Manual Testing, Test Case Design, Jira, Selenium (Basics)</li>
         <li>Concepts: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks</li>
         <li>Cloud: AWS (Beginner)</li>

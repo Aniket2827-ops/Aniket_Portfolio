@@ -59,22 +59,14 @@ const About = () => {
         </div>
 
         <div>
-          <p>
-            Hello! I'm <strong style={{ color: '#ffffff' }}>Aniket Srivastava</strong>, a passionate and detail-driven
-            Computer Science graduate with practical experience in both manual software testing and full-stack web
-            development. My technical skill set includes <strong>Python</strong>, <strong>JavaScript</strong>, and modern
-            frameworks for building intuitive, scalable applications.
-          </p>
           <p style={{ color: '#cccccc' }}>
-            I am currently working as a <strong style={{ color: '#ffffff' }}>Test Engineer</strong> at <strong style={{ color: '#ffffff' }}>1TX Pvt. Ltd.</strong>in the
-            <strong style={{ color: '#ffffff' }}> Insurance domain</strong>, where I focus on delivering high-quality,
-            reliable insurance products. My responsibilities include creating and executing test cases, performing
-            <strong> functional, regression and sanity testing</strong>, and ensuring product stability and
-            performance throughout the development lifecycle.
-          </p>
-          <p style={{ color: '#bbbbbb' }}>
-            I’m a proactive learner who thrives in collaborative environments, and I am always looking for opportunities
-            to expand my technical horizons and contribute to meaningful, high-impact projects.
+           Hello! I'm <strong style={{ color: '#ffffff' }}>Aniket Srivastava</strong>, a Computer Science graduate currently
+           working as a <strong style={{ color: '#ffffff' }}>Test Engineer</strong> at
+           <strong style={{ color: '#ffffff' }}> 1TX Pvt. Ltd.</strong>, with
+           <strong> 1 year of experience</strong> in insurance domain QA, specializing in
+           <strong> LifeAsia</strong> and <strong> L400</strong> systems. I have hands-on expertise in
+           <strong> manual functional, regression, and UAT testing</strong>, along with strong skills in
+           <strong> test case design</strong> and <strong> Jira-based defect management</strong>.
           </p>
         </div>
       </div>

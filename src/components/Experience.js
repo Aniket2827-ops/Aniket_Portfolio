@@ -7,7 +7,7 @@ const Experience = () => {
       <h2>Experience</h2>
 
       <div className="job">
-        <h3>Test Engineer</h3>
+        <h3>Associate Test Engineer</h3>
         <p><em>1TX Pvt. Ltd.</em> | April 2025 – Present</p>
         <ul>
           <li>Performed functional, system, and regression testing in the insurance domain.</li>
