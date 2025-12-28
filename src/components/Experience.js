@@ -4,29 +4,44 @@ import React from 'react';
 const Experience = () => {
   return (
     <section className="section experience">
-      <h2>Experience</h2>
+      <h2>Professional Experience</h2>
 
       <div className="job">
-        <h3>Associate Test Engineer</h3>
-        <p><em>1TX Pvt. Ltd.</em> | April 2025 – Present</p>
-        <ul>
-          <li>Performed functional, system, and regression testing in the insurance domain.</li>
-          <li>Created and executed detailed test cases to ensure products quality.</li>
-          <li>Logged and tracked bugs using Jira and collaborated with developers to resolve issues.</li>
-          <li>Contributed to delivering high-quality products with a focus on user experience and reliability.</li>
-        </ul>
-      </div>
-
-      <div className="job">
-        <h3>Python Developer Intern</h3>
-        <p><em>Coding Samurai</em> | 2023</p>
-        <ul>
-          <li>Developed Python-based tools for data analysis and automation tasks.</li>
-          <li>Worked on projects involving data visualization and basic machine learning models.</li>
-          <li>Enhanced code efficiency and readability by following best coding practices.</li>
-        </ul>
-      </div>
-    </section>
+      <h3>Test Engineer - Insurance Domain</h3>
+     <p><em>1TX Pvt. Ltd.</em> | Chennai | Apr 2025 - Present</p>
+     <ul>
+     <li>
+      Performed manual testing across 15+ life insurance products using
+      <strong> LifeAsia</strong> and <strong> L400</strong>, covering New Business,
+      Policy Servicing, Claims, Surrender, and Loan modules.
+     </li>
+     <li>
+      Executed <strong>functional, regression, sanity, and UAT testing</strong> for
+      Term, Endowment, and ULIP products, ensuring policy lifecycle accuracy and
+      business rule compliance; improved defect detection by <strong>40%</strong>.
+     </li>
+     <li>
+      Designed and maintained <strong>10+ test artifacts</strong> including test plans,
+      detailed test cases, and execution reports to standardize QA processes and
+      reduce new team member onboarding time by <strong>15 days</strong>.
+     </li>
+     <li>
+      Validated policy workflows, <strong>claims processing</strong>, and
+      <strong> customer data integrity</strong> across core insurance modules,
+      minimizing data issues and ensuring reliable operations.
+     </li>
+     <li>
+      Collaborated with product owners, business analysts, and developers to clarify
+      requirements, support accurate coverage, and reduce rework by <strong>50%</strong>.
+     </li>
+     <li>
+      Logged, tracked, and retested defects using <strong>Jira</strong> with clear
+      reproduction steps and supporting evidence, enabling faster UAT sign-offs
+      and reducing UAT cycle time by <strong>40%</strong>.
+    </li>
+  </ul>
+</div>
+</section>
   );
 };
 

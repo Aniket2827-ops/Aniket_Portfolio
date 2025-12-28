@@ -6,46 +6,127 @@ const Projects = () => {
     <section className="section projects">
       <h2>Projects</h2>
       <ul className="project-list">
+
+        {/* Portfolio Website */}
         <li>
           <h3>💼 Portfolio Website</h3>
           <p>
-            A personal portfolio website developed using <strong>React</strong>, <strong>React Router</strong>, and <strong>CSS</strong> to showcase my skills, experience, and projects. 
-            It features smooth navigation, responsive design, and a clean user interface. This project reflects my frontend capabilities and understanding of component-based architecture.
+            Designed and developed a responsive personal portfolio using
+            <strong> React.js</strong> to showcase professional experience,
+            technical skills, certifications, and projects. Implemented a clean UI,
+            smooth scrolling, and section-based navigation for better user experience.
           </p>
-          <a href="https://github.com/aniketsrivastava89/aniket_portfolio" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <ul>
+            <li>
+              Implemented <strong>responsive design</strong> and optimized navigation
+              to improve usability and engagement.
+            </li>
+            <li>
+              Deployed on <strong>Netlify</strong> with a <strong>custom domain</strong>,
+              enabling fast updates and reducing release time by
+              <strong> 5–10 minutes per update</strong>.
+            </li>
+          </ul>
+          <a
+            href="https://aniket-2827.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Live Demo
+          </a>
+          <a
+            href="https://github.com/aniketsrivastava89/aniket_portfolio"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ marginLeft: '15px' }}
+          >
+            GitHub
+          </a>
         </li>
 
+        {/* Disease Prediction System */}
         <li>
           <h3>🩺 Disease Prediction & Medicine Recommendation System</h3>
           <p>
-            A machine learning-based system that predicts probable diseases based on user symptoms and provides basic medicine suggestions. Implemented using <strong>Python</strong>, <strong>Scikit-learn</strong>, and <strong>Pandas</strong>. The model was trained on a healthcare dataset using decision trees and Naive Bayes classifiers, and it features a user-friendly interface for symptom input.
+            Developed a machine learning - based system to predict probable diseases
+            based on user symptoms and suggest basic medicines using
+            <strong> Python</strong>, <strong>Scikit-learn</strong>, and <strong>Pandas</strong>.
           </p>
-          <a href="https://github.com/aniketsrivastava89/DiseasePredictionSystemUsingML" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <p>
+            Implemented and evaluated models using Decision Tree and Naive Bayes
+            classifiers with a simple user interface for symptom input and prediction.
+          </p>
+          <a
+            href="https://github.com/aniketsrivastava89/DiseasePredictionSystemUsingML"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
         </li>
 
+        {/* IndianShoppingHub */}
         <li>
-          <h3>🛍️ IndianShoppingHub</h3>
-          <p><strong>IndianShoppingHub</strong> is a dynamic and scalable e-commerce platform tailored for modern online retail experiences. Built using <strong>JavaScript</strong>, <strong>SCSS</strong>, <strong>HTML</strong>, and powered by <strong>Strapi</strong> (a Node.js-based headless CMS), this project showcases a complete full-stack development approach—from intuitive user interfaces to robust backend management.</p>
-          <p>The platform enables seamless product browsing, shopping cart functionality, and real-time inventory control, all backed by a flexible content management system. It emphasizes clean design, efficient data flow, and user-first interactions.</p>
-
-          <a href="https://github.com/aniketsrivastava89/IndianShoppingHub" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <h3>🛍️ IndianShoppingHub (E-Commerce Platform)</h3>
+          <p>
+            Built a full-stack e-commerce platform using <strong>JavaScript</strong>,
+            <strong> HTML</strong>, <strong>SCSS</strong>, and <strong>Strapi</strong>
+            (headless CMS).
+          </p>
+          <p>
+            Implemented product browsing, shopping cart functionality, and inventory
+            management with a focus on clean UI, efficient data flow, and
+            user-centric design.
+          </p>
+          <a
+            href="https://github.com/aniketsrivastava89/IndianShoppingHub"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
         </li>
 
+        {/* Table Tennis Game */}
         <li>
           <h3>🏓 Table Tennis Game</h3>
           <p>
-            A browser-based Table Tennis game developed using <strong>HTML5 Canvas</strong>, <strong>JavaScript</strong>, and basic game physics. Features include paddle control, collision detection, and a scoring system. The game is lightweight and works smoothly across all modern browsers.
+            Developed a browser-based table tennis game using
+            <strong> HTML5 Canvas</strong> and <strong>JavaScript</strong>.
           </p>
-          <a href="https://github.com/aniketsrivastava89/Ping_Tennis_game" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <p>
+            Implemented paddle movement, collision detection, scoring logic,
+            and basic game physics with smooth cross-browser performance.
+          </p>
+          <a
+            href="https://github.com/aniketsrivastava89/Ping_Tennis_game"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
         </li>
 
+        {/* Digital Clock */}
         <li>
           <h3>⏰ Digital Clock</h3>
           <p>
-            A real-time digital clock application built using <strong>Python (Tkinter)</strong>. It displays hours, minutes, and seconds with a stylish UI. This project helped reinforce GUI development concepts and working with real-time updates.
+            Created a real-time digital clock application using
+            <strong> Python (Tkinter)</strong> to display hours, minutes, and seconds.
           </p>
-          <a href="https://github.com/aniketsrivastava89/Digital_Clock" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <p>
+            Strengthened understanding of GUI development, real-time updates,
+            and event-driven programming.
+          </p>
+          <a
+            href="https://github.com/aniketsrivastava89/Digital_Clock"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
         </li>
+
       </ul>
     </section>
   );

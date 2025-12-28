@@ -4,18 +4,32 @@ import React from 'react';
 const Skills = () => {
   return (
     <section className="section skills">
-      <h2>Skills</h2>
+      <h2>Technical Skills</h2>
       <ul className="skills-list">
-        <li>Programming Languages: Python, Java, C, JavaScript</li>
-        <li>Frontend: HTML5, CSS3, React.js, Bootstrap</li>
-        <li>Backend & Frameworks: Django, ReactJs</li>
-        <li>Database: SQL</li>
-        <li>Tools & Platforms: LifeAsia, L400, Git, GitHub, VS Code, Jupyter Notebook, PyCharm, Excel</li>
-        <li>Testing: Manual Testing, Test Case Design, Jira, Selenium (Basics)</li>
-        <li>Concepts: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks</li>
-        <li>Cloud: AWS (Beginner)</li>
-        <li>Data Analysis: Power BI, Pandas, Matplotlib (Basics)</li>
-        <li>Soft Skills: Problem Solving, Communication, Analytical Thinking, Teamwork</li>
+        <li>
+          <strong>Testing Types:</strong> Manual Testing, Functional Testing, Regression Testing, UAT, Test Case Design
+        </li>
+        <li>
+          <strong>Automation:</strong> Selenium WebDriver (Python - In Progress), Cucumber BDD (Learning)
+        </li>
+        <li>
+          <strong>API Testing:</strong> Postman
+        </li>
+        <li>
+          <strong>Programming & Scripting:</strong> Python, JavaScript, HTML5, CSS3, Bootstrap, C
+        </li>
+        <li>
+          <strong>Bug Tracking Tools:</strong> Jira
+        </li>
+        <li>
+          <strong>Databases:</strong> SQL
+        </li>
+        <li>
+          <strong>Tools & Platforms:</strong> LifeAsia, L400, VS Code, Git, GitHub, Excel
+        </li>
+        <li>
+          <strong>Methodologies & Concepts:</strong> SDLC, STLC, Agile/Scrum, Test Automation Concepts
+        </li>
       </ul>
     </section>
   );
