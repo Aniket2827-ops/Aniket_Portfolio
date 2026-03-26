@@ -11,7 +11,7 @@ const Contact = () => {
         <li><strong>Phone:</strong> +91-6387511835</li>
         <li><strong>Location:</strong> Lucknow, Uttar Pradesh, India</li>
         <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aniket-srivastava-619475223/]">Aniket Srivastava</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/aniketsrivastava89">aniketsrivastava89</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/Aniket2827-ops">Aniket2827-ops</a></li>
       </ul>
       <p>I'm always open to discussing new projects, collaboration opportunities, or just chatting about tech!</p>
     </section>
