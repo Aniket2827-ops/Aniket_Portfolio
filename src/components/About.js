@@ -60,13 +60,16 @@ const About = () => {
 
         <div>
           <p style={{ color: '#cccccc' }}>
-           Hello! I'm <strong style={{ color: '#ffffff' }}>Aniket Srivastava</strong>, a Computer Science graduate currently
-           working as a <strong style={{ color: '#ffffff' }}>Test Engineer</strong> at
-           <strong style={{ color: '#ffffff' }}> 1TX Pvt. Ltd.</strong>, with
-           <strong> 1 year of experience</strong> in insurance domain QA, specializing in
-           <strong> LifeAsia</strong> and <strong> L400</strong> systems. I have hands-on expertise in
-           <strong> manual functional, regression, and UAT testing</strong>, along with strong skills in
-           <strong> test case design</strong> and <strong> Jira-based defect management</strong>.
+          Hello! I'm <strong style={{ color: '#ffffff' }}>Aniket Srivastava</strong>, a Computer Science graduate and 
+          <strong style={{ color: '#ffffff' }}> Test Engineer</strong> at 
+          <strong style={{ color: '#ffffff' }}> 1TX Pvt. Ltd.</strong> with 
+          <strong> 1+ year of experience</strong> in insurance domain QA. I specialize in 
+          <strong> LifeAsia</strong> and <strong> L400</strong> systems, with hands-on expertise in 
+          <strong> functional, regression, UAT, and sanity testing</strong>. I have strong experience in 
+          <strong> test case design, defect lifecycle management using Jira</strong>, and 
+          <strong> SQL data validation</strong>. Currently, I am expanding my skills in 
+          <strong> automation testing using Selenium WebDriver (Python) and Cucumber BDD</strong>, along with 
+          <strong> CI/CD integration using Jenkins</strong>.
           </p>
         </div>
       </div>
